@@ -1,3 +1,98 @@
-﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"><Document><name>Zeichnung</name><Placemark id="marker_1700733430915"><ExtendedData><Data name="htmlpopup"><value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/QbHcQlIMSB2ShrbQWsebiQ#marker_1700733430915" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(Firma)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;Hier werde ich nächstes Jahr arbeiten 😄
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd">
+   <Document>
+      <name>Meine_Standorte</name>
+      <Placemark id="marker_1700733430915">
+         <ExtendedData>
+            <Data name="htmlpopup">
+               <value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/QbHcQlIMSB2ShrbQWsebiQ#marker_1700733430915" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(Firma)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;Hier werde ich nächstes Jahr arbeiten &#x1f604;
 
-&lt;img src="https://www.wallpaperflare.com/pink-outdoor-flowers-beside-river-during-daytime-ladybower-reservoir-ladybower-reservoir-wallpaper-mekbo" style="max-height:200px;"/&gt;&lt;/div&gt;&lt;/div&gt;</value></Data><Data name="layerId"><value>KML||https://public.geo.admin.ch/api/kml/files/QbHcQlIMSB2ShrbQWsebiQ</value></Data><Data name="type"><value>marker</value></Data></ExtendedData><name>Firma</name><description>Hier werde ich nächstes Jahr arbeiten 😄</description><Style><IconStyle><Icon><href>https://api3.geo.admin.ch/color/255,0,0/commercial-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon></IconStyle><LabelStyle><color>ff0000ff</color></LabelStyle></Style><Point><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.8003168117989,47.33025065819947</coordinates></Point></Placemark><Placemark id="marker_1700733702816"><ExtendedData><Data name="htmlpopup"><value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/QbHcQlIMSB2ShrbQWsebiQ#marker_1700733702816" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(azo)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;Hier Arbeite ich zurzeit 😀&lt;img src="https://www.wallpaperflare.com/pink-outdoor-flowers-beside-river-during-daytime-ladybower-reservoir-ladybower-reservoir-wallpaper-mekbo" style="max-height:200px;"/&gt;&lt;/div&gt;&lt;/div&gt;</value></Data><Data name="layerId"><value>KML||https://public.geo.admin.ch/api/kml/files/QbHcQlIMSB2ShrbQWsebiQ</value></Data><Data name="type"><value>marker</value></Data></ExtendedData><name>azo</name><description>Hier Arbeite ich zurzeit 😄</description><Style><IconStyle><Icon><href>https://api3.geo.admin.ch/color/0,128,0/commercial-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon></IconStyle><LabelStyle><color>ff0000ff</color></LabelStyle></Style><Point><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.702217540111233,47.34714091087019</coordinates></Point></Placemark><Placemark id="marker_1700734074843"><ExtendedData><Data name="type"><value>marker</value></Data></ExtendedData><name>Schule</name><description>Hier gehe ich in die Berufsschule 🧪🥼</description><Style><IconStyle><Icon><href>https://api3.geo.admin.ch/color/0,0,255/library-24@2x.png</href><gx:w>48</gx:w><gx:h>48</gx:h></Icon></IconStyle><LabelStyle><color>ff0000ff</color></LabelStyle></Style><Point><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.707452015029292,47.349265221925414</coordinates></Point></Placemark></Document></kml>
+&lt;img src="https://www.wallpaperflare.com/pink-outdoor-flowers-beside-river-during-daytime-ladybower-reservoir-ladybower-reservoir-wallpaper-mekbo" style="max-height:200px;"/&gt;&lt;/div&gt;&lt;/div&gt;</value>
+            </Data>
+            <Data name="layerId">
+               <value>KML||https://public.geo.admin.ch/api/kml/files/QbHcQlIMSB2ShrbQWsebiQ</value>
+            </Data>
+            <Data name="type">
+               <value>marker</value>
+            </Data>
+         </ExtendedData>
+         <name>Firma</name>
+         <description>Hier werde ich nächstes Jahr arbeiten &#x1f604;</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>https://api3.geo.admin.ch/color/255,0,0/commercial-24@2x.png</href>
+                  <gx:w>48</gx:w>
+                  <gx:h>48</gx:h>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>ff0000ff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>8.8003168117989,47.33025065819947</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="marker_1700733702816">
+         <ExtendedData>
+            <Data name="htmlpopup">
+               <value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/QbHcQlIMSB2ShrbQWsebiQ#marker_1700733702816" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(azo)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;Hier Arbeite ich zurzeit &#x1f600;&lt;img src="https://www.wallpaperflare.com/pink-outdoor-flowers-beside-river-during-daytime-ladybower-reservoir-ladybower-reservoir-wallpaper-mekbo" style="max-height:200px;"/&gt;&lt;/div&gt;&lt;/div&gt;</value>
+            </Data>
+            <Data name="layerId">
+               <value>KML||https://public.geo.admin.ch/api/kml/files/QbHcQlIMSB2ShrbQWsebiQ</value>
+            </Data>
+            <Data name="type">
+               <value>marker</value>
+            </Data>
+         </ExtendedData>
+         <name>azo</name>
+         <description>Hier Arbeite ich zurzeit &#x1f604;</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>https://api3.geo.admin.ch/color/0,128,0/commercial-24@2x.png</href>
+                  <gx:w>48</gx:w>
+                  <gx:h>48</gx:h>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>fdaafdaa</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>8.702217540111233,47.34714091087019</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="marker_1700734074843">
+         <ExtendedData>
+            <Data name="type">
+               <value>marker</value>
+            </Data>
+         </ExtendedData>
+         <name>Schule</name>
+         <description>Hier gehe ich in die Berufsschule &#x1f9ea;&#x1f97c;</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>https://api3.geo.admin.ch/color/0,0,255/library-24@2x.png</href>
+                  <gx:w>48</gx:w>
+                  <gx:h>48</gx:h>
+               </Icon>
+            </IconStyle>
+            <LabelStyle>
+               <color>af435629</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>8.707452015029292,47.349265221925414</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>
